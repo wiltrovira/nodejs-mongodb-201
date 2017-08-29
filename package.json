@@ -1,0 +1,55 @@
+{
+  "name": "nodejs-mongodb-201",
+  "version": "0.1.0",
+  "description": "nodejs mongodb query básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/nodejs-mongodb-201.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "query",
+    "básico",
+    "driver"
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/nodejs-mongodb-query-201/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/nodejs-mongodb-query-201#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.1",
+    "clean-webpack-plugin": "^0.1.16",
+    "css-loader": "^0.28.5",
+    "eslint": "^4.5.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-rules-nodejs": "^1.0.0",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^2.30.1",
+    "localtunnel": "^1.8.3",
+    "mocha": "^3.5.0",
+    "npm-run-all": "^4.1.0",
+    "nsp": "^2.7.0",
+    "open": "0.0.5",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1",
+    "webpack-md5-hash": "0.0.5"
+  }
+}
